@@ -1,13 +1,13 @@
 client:
-  token: "Nj..."
-  server_id: 1071...
+  token: "MzYwOTQ2NzI0OTg3OTk0MTEy.GiDg7F.RFfNApiZZdeCBb9uJittFMvuHWaASLbpd21-Uw"
+  server_id: 733569658413907999
   excluded_channels:
     - 0
   regex_filter: "(badword1|badword2)"
 
 server:
-  token: "OD..."
-  server_id: 108...
+  token: "MzYwOTQ2NzI0OTg3OTk0MTEy.GiDg7F.RFfNApiZZdeCBb9uJittFMvuHWaASLbpd21-Uw"
+  server_id: 1221217863583399997
   interval: 60
   webhook_name: DiscordWizard
   websocket:
